@@ -23,11 +23,11 @@ public class HelloApp {/**
  * 5. System.out.println() – Standard output stream for printing
  */
 
-public class HelloApp {
+
 
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
 
 }
-}
+
